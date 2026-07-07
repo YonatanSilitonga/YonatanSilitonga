@@ -107,7 +107,7 @@ Machine Learning project for vehicle classification using YOLO.
 
 💼 LinkedIn : https://www.linkedin.com/in/yonatan-rizky-partogi-silitonga-5a0978370/
 
-🌐 Portfolio : https://yonatansilitonga.verce.app
+🌐 Portfolio : https://yonatansilitonga.vercel.app/
 
 </p>
 
