@@ -71,9 +71,9 @@ Machine Learning project for vehicle classification using YOLO.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YonatanSilitonga&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonatanSilitonga&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -83,7 +83,7 @@ Machine Learning project for vehicle classification using YOLO.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YonatanSilitonga&theme=tokyonight"/>
 
 </p>
 
@@ -93,7 +93,7 @@ Machine Learning project for vehicle classification using YOLO.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YonatanSilitonga&theme=tokyo-night"/>
 
 </p>
 
