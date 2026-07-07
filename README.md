@@ -103,11 +103,11 @@ Machine Learning project for vehicle classification using YOLO.
 
 <p>
 
-📧 Email : your_email@gmail.com
+📧 Email : yonathansilitonga01@gmail.com
 
-💼 LinkedIn : https://linkedin.com/in/yourusername
+💼 LinkedIn : https://www.linkedin.com/in/yonatan-rizky-partogi-silitonga-5a0978370/
 
-🌐 Portfolio : https://yourportfolio.com
+🌐 Portfolio : https://yonatansilitonga.verce.app
 
 </p>
 
